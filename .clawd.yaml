@@ -1,0 +1,5 @@
+workspace: ~/clawd
+model: ollama/glm-4.7:cloud
+gateway.mode: local
+gateway.port: 18789
+gateway.bind: loopback
